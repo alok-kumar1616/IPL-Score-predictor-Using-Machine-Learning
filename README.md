@@ -286,15 +286,15 @@ It provides an error value in the same unit as the target variable, making it ea
 IPL-Score-Predictor/
 │
 ├── dataset/
-│   └── ipl_dataset.csv
+│   └── ipl_data.csv
 │
 ├── notebooks/
-│   └── IPL_Score_Prediction.ipynb
+│   └── Score Predictor Using Machine Learning.ipynb
 │
 ├── model/
 │   └── ipl_score_predictor.pkl
 │
-├── app.py
+├── ipl_score_predictor.py
 │
 ├── requirements.txt
 │
