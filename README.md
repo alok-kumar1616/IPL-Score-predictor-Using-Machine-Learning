@@ -292,7 +292,7 @@ IPL-Score-Predictor/
 │   └── Score Predictor Using Machine Learning.ipynb
 │
 ├── model/
-│   └── ipl_score_predictor.pkl
+│   └── ml_model.pkl
 │
 ├── ipl_score_predictor.py
 │
